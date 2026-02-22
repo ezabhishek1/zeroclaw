@@ -3,41 +3,80 @@ Copyright 2025 ZeroClaw Labs
 
 This product includes software developed at ZeroClaw Labs (https://github.com/zeroclaw-labs).
 
-Official Repository
-===================
-
-The only official ZeroClaw repository is:
-https://github.com/zeroclaw-labs/zeroclaw
-
-Any other repository claiming to be ZeroClaw is unauthorized.
-See TRADEMARK.md for the full trademark policy.
-
-License
-=======
-
-This software is available under a dual-license model:
-
-  1. MIT License — see LICENSE
-  2. Apache License 2.0 — see LICENSE-APACHE
-
-You may use either license. Contributors grant rights under both.
-See CLA.md for the contributor license agreement.
-
 Contributors
 ============
 
-This NOTICE file is maintained by repository automation.
-For the latest contributor list, see the repository contributors page:
-https://github.com/zeroclaw-labs/zeroclaw/graphs/contributors
+The following individuals have contributed to ZeroClaw:
 
-All contributors retain copyright ownership of their contributions.
-Contributions are permanently attributed in the repository commit history.
-Patent rights are protected for all contributors under Apache License 2.0.
+- Abdzsam
+- adie
+- adisusilayasa
+- agorevski
+- beee003
+- beemaya003
+- cbigger
+- cd-slash
+- cdalar
+- chenmi319
+- chumyin
+- daniiiiekisde
+- darwin808
+- Death-Incarnate
+- dwillitzer
+- ecschoye
+- elonfeng
+- Extreammouse
+- fettpl
+- FISHers6
+- ftonato
+- gh-xj
+- ghsmc
+- haeli05
+- hayoial
+- ibhagwan
+- ikunali
+- InuDial
+- jaysonsantos
+- jbradf0rd
+- jereanon
+- junbaor
+- KevinZhao
+- KNIGHTABDO
+- kumanday
+- kunwl123456
+- lawyered0
+- LiWeny16
+- Lumi-node
+- mai1015
+- Marlinski
+- Mgrsc
+- mikeboensel
+- mmacedoeu
+- Moeblack
+- nkhoit
+- radkrish
+- reidliu41
+- RinZ27
+- RocketRene
+- s04
+- sahajre
+- stakeswky
+- Syeda-Anshrah-Gillani
+- theonlyhennygod
+- v0l
+- valmy
+- vernonstinebaker
+- vrescobar
+- willsarg
+- youhanasheriff
+- YubinghanBai
+- zverozabr
+
 
 Third-Party Dependencies
-========================
+=========================
 
-This project uses third-party libraries and components,
-each licensed under their respective terms.
+This project uses the following third-party libraries and components,
+each licensed under their respective terms:
 
-See Cargo.lock for a complete dependency list.
+See Cargo.lock for a complete list of dependencies and their licenses.
